@@ -41,10 +41,11 @@
          <a href="https://www.linkedin.com/in/david-medina-ingsoft?trk=people-guest_people_search-card" target="_blank"><img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label" /></a>&nbsp;&nbsp;
     </p>
-    <div >
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=medi77na&show_icons=true&theme=light&locale=en&layout=compact" alt="medi77na" />
-    </div>
     <div  style="display: flex;justify-content: center;align-items: center">
-        <img style="width: 48%;" src="https://github-readme-stats.vercel.app/api?username=medi77na&show_icons=true&theme=light&locale=en" alt="medi77na" />
-        <img style="width: 51%;" src="https://github-readme-streak-stats.herokuapp.com/?user=medi77na&theme=light&locale=en" alt="medi77na" />  
+        <img style="width: 48%;" src="https://github-readme-stats.vercel.app/api?username=medi77na&show_icons=true&theme=system&locale=en" alt="medi77na" />
+        <img style="width: 51%;" src="https://github-readme-streak-stats.herokuapp.com/?user=medi77na&theme=system&locale=en" alt="medi77na" />  
     </div>
+    <div >
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=medi77na&show_icons=true&theme=system&locale=en&layout=compact" alt="medi77na" />
+    </div>
+
